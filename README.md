@@ -2,6 +2,11 @@
 
 Fruity is a free HTML login page template with scss source file.
 
+## Demo
+
+[Click here to see live demo](https://mertocak.github.io/fruity-html-scss-login-template/)
+
+
 ## Installation
 
 Just clone the repository and use. 
