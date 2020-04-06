@@ -8,6 +8,12 @@ Fruity is a free HTML login page template with scss source file.
 
 ## Installation
 
+Install via npm. 
+
+```bash
+$ npm i fruityloginpage@1.0.0
+```
+
 Just clone the repository and use. 
 
 ```bash

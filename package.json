@@ -1,0 +1,27 @@
+{
+  "name": "fruityloginpage",
+  "version": "1.0.0",
+  "description": "Fruity HTML & SCSS Login Page Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MertOcak/fruity-html-scss-login-template.git"
+  },
+  "keywords": [
+    "login",
+    "page",
+    "template",
+    "scss",
+    "css",
+    "html"
+  ],
+  "author": "Mert Ocak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MertOcak/fruity-html-scss-login-template/issues"
+  },
+  "homepage": "https://github.com/MertOcak/fruity-html-scss-login-template#readme"
+}
